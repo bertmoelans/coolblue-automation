@@ -32,14 +32,7 @@ https://www.oracle.com/java/technologies/downloads
 <br />
 https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
 <br />
-```
-<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
-<dependency>
-    <groupId>org.seleniumhq.selenium</groupId>
-    <artifactId>selenium-java</artifactId>
-    <version>x.x.x</version>
-</dependency>
-```
+
 <br />
 
 5. Set envirement variables, in IntelliJ configuration of the executor file -> VM options

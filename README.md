@@ -36,3 +36,10 @@ https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
     <version>x.x.x</version>
 </dependency>
 ```
+5. Set envirement variables, in IntelliJ configuration of the executor file -> VM options
+<br />
+```-Dbrowser=ChromeDriver -Dlanguage=nl```
+6. Setup Maven on your OS, for Windows check following link
+<br />
+https://phoenixnap.com/kb/install-maven-windows
+7. Maven clean install to make everything ready for execution

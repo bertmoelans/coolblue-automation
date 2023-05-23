@@ -23,11 +23,15 @@ potential client going through the website choosing a product to buy and eventua
 1. Install Java software development kit (JDK)
 <br />
 https://www.oracle.com/java/technologies/downloads
+<br />
 2. Setup environment variable on Windows to point to your web drivers folder and Java JDK
+<br />
 3. Choose an IDE of your liking and make a project (Java and Maven)
+<br />
 4. Add the latest version of "Selenium Java" dependency to the pom.xml file
 <br />
 https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+<br />
 ```
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
@@ -36,6 +40,8 @@ https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
     <version>x.x.x</version>
 </dependency>
 ```
+<br />
+
 5. Set envirement variables, in IntelliJ configuration of the executor file -> VM options
 <br />
 ```-Dbrowser=ChromeDriver -Dlanguage=nl```

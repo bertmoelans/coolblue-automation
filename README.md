@@ -14,7 +14,7 @@ potential client going through the website choosing a product to buy and eventua
 - IDE = IntelliJ
 
 ## Pre requisites
-- Java Development Kit (JDK) = openjdk-20
+- Java Development Kit (openjdk-20)
 - Selenium
 - Maven project
 - Browser web drivers
